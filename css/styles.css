@@ -1,0 +1,18 @@
+nav li {
+  list-style: none;
+  display: inline;
+  font-weight: bold;
+  padding: 5px;
+  background-color: black;
+}
+a:link {
+  text-decoration: none;
+  color: white;
+}
+.par-1 {
+  background-color: blanchedalmond;
+}
+
+.par-2 {
+  background-color: aqua;
+}
